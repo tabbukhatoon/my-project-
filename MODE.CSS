@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    /* background-image: linear-gradient(1450deg,pink,black); */
+
+}
+button{
+    font-size: 15px;
+    padding: 5px;
+}
+.light{
+    background-color: white;
+    color: black;
+}
+.dark{
+    background-color: black;
+    color: white;
+}
